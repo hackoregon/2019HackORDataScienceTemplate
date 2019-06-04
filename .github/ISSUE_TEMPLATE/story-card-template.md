@@ -40,7 +40,12 @@ assignees: ''
 
 ### Build APIs
 - [ ] Database deployed to CIVIC Cloud      
-- [ ] Data science results available through API with all needed calculations, filters and queries       
+- [ ] Initial backend API repo created via [cookiecutter](https://github.com/hackoregon/2019-backend-cookiecutter-django), using templatized names  
+- [ ] API developer confers with Data Visualization/Frontend teams regarding story card MVP
+- [ ] API developer confers with Data Scientists regarding all needed calculations, filters and queries, validation
+- perhaps using OpenAPI as a contract/organization first, can help understand the needs/requirements [link to OpenAPI](https://swagger.io/docs/specification/about/
+- https://apievangelist.com/2018/04/03/openapi-is-the-contract-for-your-microservice/)
+
 - [ ] Basic API in container       
 - [ ] Basic API deployed to CIVIC Cloud       
 - [ ] TBD process for API design - standardization?        
