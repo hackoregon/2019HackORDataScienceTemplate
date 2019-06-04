@@ -52,10 +52,12 @@ assignees: ''
 - [ ] API endpoint with all needed calculations, filters and queries        
 
 ### Data visualization:
-- [ ] Clear concept        
+- [ ] Concept clearly articulated through card title, visualization title/subtitle, card question(s)/action(s), and card context
+- [ ] Titles and context use consistent language (e.g., census tract v. neighborhood) and match grain of data used in the visualization 
+- [ ] Visualization and component choices inline with [data visualization best practices](https://docs.google.com/document/d/1t-9bQXNJDPHbsdiikel_GnRnIjRR_eG6J0m650QUidI/edit?pli=1#heading=h.twg0yldcvbia)        
 - [ ] All components needed available in [Storybook](https://hackoregon.github.io/civic/)       
 - [ ] Components available in [Storybook](https://hackoregon.github.io/civic/) demonstrate all needed features      
-- [ ] Follows data visualization and interface guidelines available in [Storybook](https://hackoregon.github.io/civic/)        
+- [ ] Follows data visualization and interface guidelines available in [Storybook](https://hackoregon.github.io/civic/)       
 
 ### Design
 - [ ] TBD Wireframes?     
