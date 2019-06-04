@@ -29,7 +29,7 @@ assignees: ''
 - [ ] Review metadata and proposed data analysis      
 
 ### Set up data processing development environment   
-- [ ] Clone repo from [template] (https://github.com/karenng-civicsoftware/HackORDataScienceTemplate)       
+- [ ] Clone repo from data science git repo [template](https://github.com/karenng-civicsoftware/HackORDataScienceTemplate)       
 - [ ] Set up access to GitHub repo for all team members
 - [ ] Set up a container from a suitable version of the [Dockerfile template](https://github.com/karenng-civicsoftware/HackORDataScienceTemplate/blob/master/build/Dockerfile)       
 - [ ] Prototyping and testing analysis proposals       
